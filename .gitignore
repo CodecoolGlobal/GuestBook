@@ -1,4 +1,5 @@
 # IntelliJ files
+target/
 
 .idea
 *.iml
