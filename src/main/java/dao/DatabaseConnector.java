@@ -23,6 +23,6 @@ public class DatabaseConnector {
     }
 
     static Connection getConnection() throws SQLException {
-        return  dataSource.getConnection();
+        return dataSource.getConnection();
     }
 }
